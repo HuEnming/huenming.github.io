@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About me
 type: "about"
 comments: false
 ---
@@ -12,7 +12,7 @@ comments: false
 
 ## Specialties
 - Front-end: React, Node.js, Bootstrap, Webpack
-- Back-end: .NET MVC, ASP.NET
+- Back-end: .NET MVC, ASP.NET, Entity Framework
 - Database: MongoDB, SQL Server
 - Standard and protocol: RESTful API, SOAP, JSON
 - Other: Basic knowledge of Linux(Manjaro, Ubuntu), Git
@@ -20,7 +20,7 @@ comments: false
 ## Coding projects
 - Automated testing and localization for MULE(Maynooth University Learning Environment)
     
-    MULE or is a platform used to facilitate the teaching of programming at Maynooth University. It is currently used by over 300 students from Maynooth and China. It is a web desktop platform and it based on some open source projects like OS.js, Monaco Editor.
+    MULE is a platform used to facilitate the teaching of programming at Maynooth University. It is currently used by over 300 students from Maynooth and China. It is a web desktop platform and it based on some open source projects like OS.js, Monaco Editor.
     Related technology
     - React, Node.js, TypeScript, Webpack
     - Docker, Linux

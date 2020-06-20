@@ -24,7 +24,7 @@ menu:
 
 # Favicon
 # ---------------
-favicon: /favicon.png # /melody-favicon.ico
+favicon: /favicon.ico # /melody-favicon.ico
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
@@ -262,7 +262,7 @@ busuanzi:
 links_title: Links
 links:
   Molunerfinn: https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html
-  NexT: http://theme-next.iissnan.com/getting-started.html#third-party-services
+  NexT: http://theme-next.iissnan.com/
   Maxiang: https://maxiang.io/
 
 #Name: url
