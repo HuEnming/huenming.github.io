@@ -15,7 +15,8 @@
 
 # Main menu navigation
 menu:
-  Home: /
+  # Home: /
+  About: /about
   Archives: /archives
   Tags: /tags
   Categories: /categories
@@ -51,8 +52,9 @@ code_word_wrap: true # or false
 # ---------------
 social:
   github fa: https://github.com/HuEnming
-  weibo fa: https://weibo.com/uc28914527/home?wvr=5
-  rss fa: https://huenming.github.io/atom.xml
+  twitter fa: https://twitter.com/Enming_Hu
+  # weibo fa: https://weibo.com/uc28914527/home?wvr=5
+  # rss fa: https://huenming.github.io/atom.xml
 #icon_name fa: url
 #icon_name fab: url
 
