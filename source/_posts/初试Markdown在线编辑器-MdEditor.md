@@ -2,6 +2,7 @@
 title: 初试Markdown在线编辑器 MdEditor
 date: 2019-04-15 15:29:20
 categories:
+- Other
 - Hexo
 tags: 
 - Markdown
@@ -12,13 +13,9 @@ toc_number: ture
 
 # 欢迎使用 Markdown在线编辑器 MdEditor
 
-如需在线托管MarkDown文档，建议选择[文档仓库](http://www.docrepository.org "MarkDown文档仓库")，这是一个永久免费的中文文档在线管理工具，支持Markdown和富文本实时编辑预览，支持文档历史对比功能，支持私有文档和加密分享和本编辑器功能趋近。
+如需在线托管MarkDown文档，建议选择[文档仓库](mdeditor "MarkDown文档仓库")，这是一个永久免费的中文文档在线管理工具，支持Markdown和富文本实时编辑预览，支持文档历史对比功能，支持私有文档和加密分享和本编辑器功能趋近。
 
 **Markdown是一种轻量级的「标记语言」**
-
-
-![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
-
 
 Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”
 

@@ -15,6 +15,7 @@ comments: false
 - Back-end: .NET MVC, ASP.NET, Entity Framework
 - Database: MongoDB, SQL Server
 - Standard and protocol: RESTful API, SOAP, JSON
+- Testing: TestNG, Pytest, Selenium
 - Other: Basic knowledge of Linux(Manjaro, Ubuntu), Git
 
 ## Coding projects
@@ -43,7 +44,7 @@ comments: false
 - 01/07/2015 – 20/09/2017
     
     Dot NET Developer - Hangzhou Pinming Information Technology Co., Ltd.(China)
-    - Providing technical support to the website of the bidding department of local government（Base on Content Management System）
+    - Providing technical support to the website of the bidding department of local government(Base on Content Management System)
     - Maintaining the online bidding system
 
 ## Education and training
