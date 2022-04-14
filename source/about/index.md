@@ -8,11 +8,11 @@ comments: false
 >
 >**Two years' back-end web development experience in China**
 >
->**Bachelor's degree from Maynooth University**
+>**Bachelor's degree in Computer Science & Software Engineering (1st Class Honours)**
 
 ## Specialties
-- Front-end: React, Node.js, Bootstrap, Webpack
-- Back-end: .NET MVC, ASP.NET, Entity Framework
+- Front-end: HTML, CSS, JavaScript， React, Bootstrap, Webpack
+- Back-end: Node.js, .NET MVC, ASP.NET, Entity Framework
 - Database: MongoDB, SQL Server
 - Standard and protocol: RESTful API, SOAP, JSON
 - Testing: TestNG, Pytest, Selenium
